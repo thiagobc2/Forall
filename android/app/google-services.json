@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659215520763",
+    "firebase_url": "https://forall-3eb15.firebaseio.com",
+    "project_id": "forall-3eb15",
+    "storage_bucket": "forall-3eb15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659215520763:android:4fd73fe87edb7405a9b15e",
+        "android_client_info": {
+          "package_name": "com.forall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659215520763-qqu7b3jnihp3c02gbvnhnosq37suc255.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAt2jcawbKfi3GYevY0HIJ5BmwPeBpqfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659215520763-qqu7b3jnihp3c02gbvnhnosq37suc255.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
